@@ -32,6 +32,19 @@ Autor: **Jorge Araujo**, juiz do trabalho. Apresentada no artigo
 Antes de usar a IA com peças de processos reais, retire nomes e dados pessoais ou use
 uma ferramenta autorizada pelo seu tribunal ou escritório.
 
+## Contribua
+
+Qual é a primeira regra do seu guia de estilo? Sugestões de palavras a evitar, vícios de
+minuta ou pontos que costumam gerar embargos são bem-vindas, e as melhores entram na
+versão 1.1, com crédito para quem sugeriu. Dá para sugerir de dois jeitos:
+
+- nos comentários do artigo, no Substack [IA e Direito](https://jorgealbertoaraujo.substack.com);
+- abrindo uma [issue](https://github.com/jaa41/estilo-redacao-juridica/issues) aqui no
+  GitHub.
+
+Se a skill foi útil, deixe uma **estrela** no repositório (botão ☆ *Star*, no alto da
+página). É o que faz outras pessoas a encontrarem.
+
 ## Licença
 
 [CC BY 4.0](LICENSE): use, adapte e redistribua à vontade, citando a autoria.
