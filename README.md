@@ -5,7 +5,7 @@ redigidos com apoio de inteligência artificial: decisões, sentenças, votos, p
 pareceres, artigos e postagens.
 
 Autor: **Jorge Araujo**, juiz do trabalho. Apresentada no artigo
-*A IA Escreve Como Nós*, no Substack [IA e Direito](https://jorgealbertoaraujo.substack.com).
+*Melhore o Texto com IA e Deixe-o com a Sua Cara*, no Substack [IA e Direito](https://jorgealbertoaraujo.substack.com).
 
 ## O que ela faz
 
